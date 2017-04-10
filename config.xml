@@ -5,10 +5,10 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "391"
         version   = "1.15">
-    <name>Moodle Mobile</name>
+    <name>Schoodle</name>
 
     <description>
-        Moodle Mobile official app
+       Comezo Schools Connect
     </description>
 
     <author href="http://moodle.com" email="juan@moodle.com">
